@@ -1,16 +1,23 @@
 # task_imagelist
 
-A new Flutter project.
+This Flutter app integrates Firebase for user authentication and a simple API for displaying image cards and navigates to a details screen for displaying another list of image card. The app follows clean architecture principles, ensuring separation of views and processing logic, proper error handling, and a clean UI/UX with animated elements. GetX state management is used.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Before you begin, ensure you have met the following requirements:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+•⁠  ⁠You have installed the latest version of [Flutter](https://flutter.dev/docs/get-started/install).
+•⁠  ⁠You have a compatible IDE such as [Android Studio](https://developer.android.com/studio), [Visual Studio Code](https://code.visualstudio.com/)
+
+### Installation
+
+1.⁠ ⁠*Clone the Repository*
+2.⁠ ⁠Run the following command : flutter pub get
+3.⁠ ⁠Run the App
+
+### Video
+

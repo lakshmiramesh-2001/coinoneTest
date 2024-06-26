@@ -20,4 +20,6 @@ Before you begin, ensure you have met the following requirements:
 3.⁠ ⁠Run the App
 
 ### Video
+https://github.com/lakshmiramesh-2001/coinoneTest/assets/173964526/1e563019-104f-4835-9e73-80250b1b978b
+
 
